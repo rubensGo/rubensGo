@@ -1,6 +1,7 @@
 - 👋 Oi, eu sou o 0rubens0
-- 👀 Eu estou Interressado na Àrea de Criar Sites...
-- 🌱 Eu estou Aprendendo Java e Spring Boot
-- 💞️ Estrou me Aprofundando nos Estudos...
+- 👀 Eu estou Interressado na Area De Criação Mobile
+- 🌱 Eu estou Aprendendo Java e Estou pensado Em estudar Kotin ou Dart
+- 💞️ Estrou me Aprofundando nos Estudos Sobre Java, E já Estou Criando Uns Projetos...
 - 😄 Pronomes: ele/dele
-- 🙂 Eu Estou desposto em aprender Qualquer coisa que precisa na vaga!!
+- 🙂 Curiosidade: Sou uma Pessoa Bem disposta, E posso aprender qualquer coisa!!
+- 📱 Se quiser falar comigo estou disposto pelo Gtihub ou pelo Discord. Discod: jaburr0   
