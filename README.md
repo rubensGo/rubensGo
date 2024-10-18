@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou o 0rubens0
-- 👀 Eu estou Interressado na Area De Criação Mobile
+- 👀 Eu estou Interressado na Área De Criação Mobile
 - 🌱 Eu estou Aprendendo Java e Estou pensado Em estudar Kotin ou Dart
 - 💞️ Estrou me Aprofundando nos Estudos Sobre Java, E já Estou Criando Uns Projetos...
 - 😄 Pronomes: ele/dele
