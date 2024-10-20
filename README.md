@@ -1,7 +1,20 @@
-- 👋 Oi, eu sou o 0rubens0
-- 👀 Eu estou Interressado na Área De Criação Mobile
-- 🌱 Eu estou Aprendendo Java e Estou pensado Em estudar Kotin ou Dart
-- 💞️ Estrou me Aprofundando nos Estudos Sobre Java, E já Estou Criando Uns Projetos...
-- 😄 Pronomes: ele/dele
-- 🙂 Curiosidade: Sou uma Pessoa Bem disposta, E posso aprender qualquer coisa!!
-- 📱 Se quiser falar comigo estou disposto pelo Gtihub ou pelo Discord. Discod: jaburr0   
+### Olá Eu Sou o Rubens😊
+
+![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=0rubens0&show_icons=true&theme=radical)
+
+### Minhas Skills
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
+
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</div>
+
+### Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens_golfett/)
+
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-golfett-83959332a/)
+
+Apaixanado por Tecnologia Mobile, Resolver Problemas e Tentar Facilitar Tudo oq é possivel...
