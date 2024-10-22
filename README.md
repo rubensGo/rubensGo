@@ -13,7 +13,7 @@
 
 ### Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent/KtbxLrjdwmKMwVHdgqkNjJWMpfjLcFWwQV?compose=CllgCJqbzwMsNqwCFGmNjnxwsNWSpThZLWFWVrrkqCGmtlBCfBdBlWQjMpRsPJmDlPFrjVNQwhg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=CllgCJZZzCrvcCdkjNDvPkLzsWvDHXVmtWqwzgVhhxBZhRDnbbbKPdHbdqdCfwgNxHbpztQFJBV)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0rubens0)
 
