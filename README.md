@@ -1,4 +1,4 @@
-### [Hello I'm Rubens😊]
+### Hello I'm Rubens😊
 
 ![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=0rubens0&show_icons=true&theme=radical)
 
