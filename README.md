@@ -25,4 +25,4 @@
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-golfett-83959332a/)
 
 
-Passionate about Mobile Technology, Solving Problems and Trying to Facilitate Everything Possible...
+Empowering innovation through cutting-edge technology and reliable code, shaping a smarter and more connected future.
