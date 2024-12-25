@@ -25,11 +25,10 @@
 
 Sou desenvolvedor(a) focado(a) em **Back-End**, apaixonado(a) por **Desenvolvimento Web**.
 
+
 Atualmente, estou aprendendo **Java** e contribuindo para **um Projeto Futuramente!**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens_golfett/)
-
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-golfett-dev/)
-
-
-Passionate about Mobile Technology, Solving Problems and Trying to Facilitate Everything Possible...
+<style>
+  body {
+    background-color: #1000;
+</style>
