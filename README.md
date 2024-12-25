@@ -1,50 +1,5 @@
-<div class="container">
-  <h1 class="typewriter">Olá, eu sou Rubens👋<h1>
-</div>
-
-<style>
+<h1>Olá, eu sou Rubens👋<h1>
   
-  body {
-
-    font-family: Arial, sans-serif;
-    background-color: #1000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    flex-direction: column;
-  }
-  .typewriter {
-    font-size: 3rem;
-    font-weight: bold;
-    color:rgb(55, 68, 48);
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;  
-    border-right: 3px solid #333;  
-    padding-right: 5px;  
-    animation: typing 4s steps(6) 1s forwards, blink 0.75s step-end infinite;  
-  }
-
-  @keyframes typing {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-  
-</style>
-
-
 ### Estatictica do GitHub
 ![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensGo&show_icons=true&theme=radical)
 
