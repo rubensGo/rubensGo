@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Rubens👋<h1>
+###Olá, eu sou Rubens👋
   
 ### Estatictica do GitHub
 ![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensGo&show_icons=true&theme=radical)
@@ -25,11 +25,4 @@
 
 Sou desenvolvedor(a) focado(a) em **Back-End**, apaixonado(a) por **Desenvolvimento Web**.
 
-
 Atualmente, estou aprendendo **Java** e contribuindo para **um Projeto Futuramente!**
-
-<style>
-  body {
-    background-color: #1000;
-  }
-</style>
