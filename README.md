@@ -4,7 +4,7 @@
 ![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensGo&show_icons=true&theme=radical)
 
 ## 🔧 Ferramentas e Tecnologias
-- **Linguagens**: Java, GO (Futuramente)
+- **Linguagens**: Java
 - **Frameworks**: Spring Boot
 - **Ferramentas**: Git, MySQL
 
