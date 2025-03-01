@@ -14,11 +14,10 @@
 - **MySQL**
 
 ## 📣 Entre em contato
-**LinkedIn**: [linkedin.com/in/rubens-golfett/](https://www.linkedin.com/in/rubens-golfett-dev/)<br>
 **Email**: contatorubens000@gmail.com
 
 ### Social media
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens_golfett/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens.golfet/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-golfett-dev/)
 
 
