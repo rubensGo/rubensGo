@@ -4,14 +4,14 @@
 ![Rubens GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensGo&show_icons=true&theme=radical)
 
 ## 🔧 Ferramentas e Tecnologias
-- **Linguagens**: Java
-- **Frameworks**: Spring Boot
+- **Linguagens**: HTML, CSS
+- **Linguagens de Programação**: JS 
 - **Ferramentas**: Git, MySQL
 
 ## 🌱 Atualmente aprendendo
-- **java**
-- **Spring Boot**
-- **MySQL**
+- **HTMl**
+- **CSS**
+- **JS**
 
 ## 📣 Entre em contato
 **Email**: contatorubens000@gmail.com
@@ -22,6 +22,6 @@
 
 
 
-Sou desenvolvedor(a) focado(a) em **Back-End**, apaixonado(a) por **Desenvolvimento Web**.
+Sou desenvolvedor(a) focado(a) em **Front-end**, apaixonado(a) por **Desenvolvimento Web**.
 
-Atualmente, estou aprendendo **Java** e contribuindo para **um Projeto Futuramente!**
+Atualmente, estou aprendendo **HTMl e CSS** e contribuindo para **um Projeto Futuramente!**
